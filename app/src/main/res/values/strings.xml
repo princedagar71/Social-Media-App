@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Social Media App</string>
+    <!--Custom Strings-->
+    <string name="home">Home</string>
+    <string name="add">Add Post</string>
+    <string name="search">Search</string>
+    <string name="notification">Notifications</string>
+    <string name="profile">Profile</string>
+
 </resources>
