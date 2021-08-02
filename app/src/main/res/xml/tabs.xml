@@ -7,13 +7,13 @@
         drawable="@drawable/bell"
         text="@string/notification" />
     <tab
-        drawable="@drawable/home"
+        drawable="@drawable/plus"
         text="@string/add" />
     <tab
-        drawable="@drawable/home"
+        drawable="@drawable/loupe"
         text="@string/search" />
     <tab
-        drawable="@drawable/home"
+        drawable="@drawable/user"
         text="@string/profile" />
 
 </Tabs>
